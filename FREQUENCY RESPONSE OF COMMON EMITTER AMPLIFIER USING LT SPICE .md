@@ -20,10 +20,15 @@
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
 ## Tabulation
+
 <img width="818" height="1454" alt="image" src="https://github.com/user-attachments/assets/e4392f58-83af-42ac-9ebf-b481b39dcbfb" />
 
 ## Graph
 ![WhatsApp Image 2025-11-10 at 09 26 30_347f93e5](https://github.com/user-attachments/assets/1978c845-96c2-404f-9db2-ad21a123e606)
+
+
+
+
 
 
 
